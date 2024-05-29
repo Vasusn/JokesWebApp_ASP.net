@@ -96,15 +96,12 @@ Contributions are welcome! Please fork this repository and submit a pull request
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) - yourname@example.com
+Your Name - [@Vasusn](https://twitter.com/yourtwitterhandle) - vasunageshri@gmail.com
 
-Project Link: [https://github.com/yourusername/jokes-management-system](https://github.com/yourusername/jokes-management-system)
+Project Link: [https://github.com/Vasusn/jokes-management-system](https://github.com/Vasusn/jokes-management-system)
 
 ---
 
