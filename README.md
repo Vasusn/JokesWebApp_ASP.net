@@ -1,6 +1,6 @@
-# Jokes Management System
+# Joke Web App
 
-Welcome to the Jokes Management System! This ASP.NET project allows you to manage a collection of jokes with functionalities to add, update, and delete jokes. The project uses a MySQL database to store the jokes.
+Welcome to the Jokes Management System! This ASP.NET project allows you to manage a collection of jokes with functionalities to add, update, delete, and search jokes. The project uses a MySQL database to store the jokes.
 
 ## Features
 
@@ -8,7 +8,23 @@ Welcome to the Jokes Management System! This ASP.NET project allows you to manag
 - Update an existing joke
 - Delete a joke
 - List all jokes
+- Search for jokes using keywords
 
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Add Joke
+![Add Joke](screenshots/add-joke.png)
+
+### List Jokes
+![List Jokes](screenshots/list-jokes.png)
+
+### Search Jokes
+![Search Jokes](screenshots/search-jokes.png)
 ## Getting Started
 
 ### Prerequisites
@@ -86,6 +102,13 @@ Once the application is running, you can access it at `http://localhost:5000` (o
 - Click "Delete" next to the joke you want to remove.
 - Confirm the deletion.
 
+### Searching for a Joke
+
+- Navigate to the "Search Jokes" section.
+- Enter a keyword related to the joke you are looking for.
+- Click "Search" to find relevant jokes.
+
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
@@ -96,12 +119,15 @@ Contributions are welcome! Please fork this repository and submit a pull request
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Your Name - [@VasuSn22](https://twitter.com/VasuSn22) - vasunageshri@gmail.com
+Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) - yourname@example.com
 
-Project Link: [https://github.com/Vasusn/jokes-management-system](https://github.com/Vasusn/jokes-management-system)
+Project Link: [https://github.com/yourusername/jokes-management-system](https://github.com/yourusername/jokes-management-system)
 
 ---
 
