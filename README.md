@@ -99,7 +99,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## Contact
 
-Your Name - [@Vasusn](https://twitter.com/yourtwitterhandle) - vasunageshri@gmail.com
+Your Name - [@VasuSn22](https://twitter.com/VasuSn22) - vasunageshri@gmail.com
 
 Project Link: [https://github.com/Vasusn/jokes-management-system](https://github.com/Vasusn/jokes-management-system)
 
